@@ -101,6 +101,7 @@ class MainActivity : AppCompatActivity() {
         else{
 
         }
+
     }
     private fun detectUserFace(bitmap: Bitmap) {
         Log.d("TAG_STATUS", "Image detection started")
